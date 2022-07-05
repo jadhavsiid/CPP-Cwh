@@ -1,0 +1,1 @@
+/* VIRTUAL BASE CLASS IN C++ */
